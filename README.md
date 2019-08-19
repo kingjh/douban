@@ -20,6 +20,3 @@
 * * 在setting.py补充db相关信息（MYSQWL_开头那几行）
 * * 在db执行init.sql
 * * 执行python run.py，爬虫就会启动，把抓取到的资料写进pz_douban_movie表中
-
-## 运行效果
-* * 请参考（资料可导出）：http://www.17pz.top/frontend/web/info/douban-movie/index.html
